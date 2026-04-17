@@ -59,7 +59,7 @@ I have 1 year of hands-on experience in AI Engineering, specializing in **RAG-ba
 | **QA & DevOps** | <img src="https://skillicons.dev/icons?i=selenium,postman,git,github&theme=dark" /> |
 | **Programming** | <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,js&theme=dark" /> |
 
-> [cite_start]**Specialized in:** RAG, FAISS, LangChain, Vector DB [cite: 47][cite_start], and Robot Framework for CI/CD pipelines[cite: 17, 48].
+> **Specialized in:** RAG, FAISS, LangChain, Ai Automation , Ai Agents , Vector DB , and Automation Testing with CI/CD pipelines.
 
 ---
 
@@ -89,6 +89,6 @@ I have 1 year of hands-on experience in AI Engineering, specializing in **RAG-ba
 </p>
 
 > [!IMPORTANT]
-> I am actively seeking **Junior AI Engineer**, **QA/QC Engineer**, or **Junior Full Stack AI Native Developer** roles[cite: 13]. Let's build something impactful!
+> I am actively seeking **Junior AI Engineer**, **QA/QC Engineer**, or **Junior Full Stack AI Native Developer** roles. Let's build something impactful!
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001220,50:004e89,100:001220&height=100&section=footer" />
