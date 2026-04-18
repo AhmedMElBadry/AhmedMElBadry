@@ -55,11 +55,11 @@ I have 1 year of hands-on experience in AI Engineering, specializing in **RAG-ba
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **AI & Data** | <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,&theme=dark" /> |
-| **QA & DevOps** | <img src="https://skillicons.dev/icons?i=selenium,postman,git,github&theme=dark" /> |
+| **AI & Data** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,&theme=dark" /> |
+| **QA & DevOps** | <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/23c7ad88-68cf-4284-8386-4bc79df4b1ef" /><img src="https://skillicons.dev/icons?i=selenium,postman,git,github&theme=dark" /> |           
 | **Programming** | <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,js&theme=dark" /> |
 
-> **Specialized in:** RAG, FAISS, LangChain, Ai Automation , Ai Agents , Vector DB , and Automation Testing with CI/CD pipelines.
+> **Specialized in:** RAG, FAISS, LangChain, AI Automation , AI Agents , Vector DB , and Automation Testing with CI/CD pipelines.
 
 ---
 
